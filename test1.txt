@@ -1,3 +1,4 @@
 The second test1
 Edit a tracking file for test 
 Unstage file exercise
+Exercise for git diff 1

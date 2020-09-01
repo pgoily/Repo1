@@ -1,2 +1,3 @@
 The second test
 The second test line 2
+The third test for git diff
