@@ -1,0 +1,4 @@
+The second test
+The second test line 2
+The third test for git diff
+The 4th test for skip stage on 2020-09-04
