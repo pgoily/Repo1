@@ -1,0 +1,7 @@
+this is just a test file.
+i want to try add some lines
+delete some lines
+
+move up 
+
+
